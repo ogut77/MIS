@@ -4,29 +4,29 @@ https://github.com/ogut77/University/blob/main/MISSyllabus2023Spring.pdf
 
 Single Table Blank
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/University/blob/main/QueryBlank.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/MIS/blob/main/QueryBlank.ipynb ]
 
 
 Single Table Answer
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/University/blob/main/Query.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/MIS/blob/main/Query.ipynb ]
 
 Multiple Table Blank
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/University/blob/main/MTBlank.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/MIS/blob/main/MTBlank.ipynb ]
 
 Multiple Table Answer
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/University/blob/main/MT.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/MIS/blob/main/MT.ipynb ]
 
 Homework 3
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/University/blob/main/Homework3.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/MIS/blob/main/Homework3.ipynb ]
 
 Homework 4
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/University/blob/main/Homework4.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/MIS/blob/main/Homework4.ipynb ]
 
 Homework 5
 
@@ -35,29 +35,29 @@ https://github.com/ogut77/University/blob/main/Homework5MIS.pdf
 
 Homework 6
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/University/blob/main/Homework6a.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/MIS/blob/main/Homework6a.ipynb ]
 
 
 Homework 9
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/University/blob/main/Homework9.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/MIS/blob/main/Homework9.ipynb ]
 
 
 Review Midterm
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/University/blob/main/ReviewMidterm.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/MIS/blob/main/ReviewMidterm.ipynb ]
 
 Review Final
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/University/blob/main/ReviewFinal.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/MIS/blob/main/ReviewFinal.ipynb ]
 
 Super Store Data
 
-https://github.com/ogut77/University/blob/main/Superstore.xls
+https://github.com/ogut77/MIS/blob/main/Superstore.xls
 
 Global Super Store Data
 
-https://github.com/ogut77/University/blob/main/GlobalSuperstore.xls
+https://github.com/ogut77/MIS/blob/main/GlobalSuperstore.xls
 
 
 Tableau Visulization 1
