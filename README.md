@@ -159,6 +159,19 @@ https://www.youtube.com/watch?v=p7_1hHb4Gvw&ab_channel=CircusStreet
 Amazon Customer Centric Approach
 https://mobile.twitter.com/arvanaghi/status/1537519858233008128
 
+AI Demos
+
+https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/multiprocure_demo.html
+
+https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/rpa_demo.html
+
+https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/rpa_invoice.html
+
+https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/AIAgents.html
+
+https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/O2C_ERP.html
+
+
 
 
 
