@@ -169,7 +169,23 @@ https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/rp
 
 https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/AIAgents.html
 
+AI DEMO
+
+https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/multiprocure_demo.html
+
+https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/rpa_demo.html
+
+https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/rpa_invoice.html
+
+https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/AIAgents.html
+
+ERP DEMO
+
+https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/supply_chain_demo.html
+
 https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/O2C_ERP.html
+
+https://htmlpreview.github.io/?https://github.com/ogut77/University/blob/main/crm_demo.html
 
 
 
