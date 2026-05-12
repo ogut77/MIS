@@ -49,7 +49,7 @@ Review Midterm
 
 Review Final
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/MIS/blob/main/ReviewFinal.ipynb ]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]https://colab.research.google.com/github/ogut77/MIS/blob/main/ReviewFinal2026.ipynb ]
 
 Super Store Data
 
